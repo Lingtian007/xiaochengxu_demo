@@ -1,4 +1,4 @@
-# 微信小程序webview组件交互,内联h5页面并网页实现微信支付
+# 微信小程序webview组件交互,内联h5页面跳转
 
 # 1·定义webview显示h5页面
 [官方文档](https://developers.weixin.qq.com/miniprogram/dev/component/web-view.html)
