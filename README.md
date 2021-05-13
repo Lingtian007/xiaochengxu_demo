@@ -4,7 +4,7 @@
 [官方文档](https://developers.weixin.qq.com/miniprogram/dev/component/web-view.html)
 ![](images/1.png)
 
-# 2·定义h5页面 - webview.html
+# 2·定义h5页面 - (webview-wx.html仅支持微信,webview-more.html 支持多平台小程序)
 + 启动一个本地服务器，用来展示一个简单的h5页面。
 ![](images/2.jpg)
 
